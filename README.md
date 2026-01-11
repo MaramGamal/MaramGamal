@@ -41,8 +41,8 @@ I love combining my software testing skills with embedded systems knowledge to c
 
 ## 🔹 Projects Highlights
 - [Restful Booker API Automation](https://github.com/MaramGamal/RestfulBookerAutomation) – Automated API suite using Java, Rest-Assured, TestNG, integrated with Jenkins & GitHub.  
-- [Advantage Online Shopping Automation](https://github.com/MaramGamal/AdvantageOnlineShopping) – UI automation with Selenium WebDriver, cross-browser testing, POM framework.  
-- [Guru99 Bank Web App](https://github.com/MaramGamal/Guru99BankWebApp) – Manual & functional testing, BVA & Equivalence Partitioning applied, defect reporting & tracking.  
+- [Advantage Online Shopping Automation](https://github.com/MaramGamal/advantage_online_shopping_Automation_Testing) – UI automation with Selenium WebDriver, cross-browser testing, POM framework.  
+- [Guru99 Bank Web App] – Manual & functional testing, BVA & Equivalence Partitioning applied, defect reporting & tracking.  
 - [Genie App (E-commerce)](https://github.com/MaramGamal/GenieApp) – Mobile app testing on Android, API validation, UI/UX testing, regression testing.  
 
 ---
