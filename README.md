@@ -43,7 +43,7 @@ I love combining my software testing skills with embedded systems knowledge to c
 - [Restful Booker API Automation](https://github.com/MaramGamal/RestFul_API_Automation_Testing) – Automated API suite using Java, Rest-Assured, TestNG, integrated with Jenkins & GitHub.  
 - [Advantage Online Shopping Automation](https://github.com/MaramGamal/advantage_online_shopping_Automation_Testing) – UI automation with Selenium WebDriver, cross-browser testing, POM framework.
 - [Graduation Project: Eye Gaze Controlled Wheelchair](https://github.com/MaramGamal/Graduation-project) – Embedded systems project using ATmega32 & computer vision to enable eye-controlled wheelchair movement. 🤖
--  [Web Fundamentals Project](https://github.com/MaramGamal/WebFundamentalsProject) – Hands-on project covering HTML, CSS. 
+-  [Web Fundamentals Project](https://github.com/MaramGamal/httpandcssproject) – Hands-on project covering HTML, CSS. 
 
 ---
 
