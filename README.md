@@ -43,7 +43,7 @@ I love combining my software testing skills with embedded systems knowledge to c
 - [Restful Booker API Automation](https://github.com/MaramGamal/RestFul_API_Automation_Testing) – Automated API suite using Java, Rest-Assured, TestNG, integrated with Jenkins & GitHub.  
 - [Advantage Online Shopping Automation](https://github.com/MaramGamal/advantage_online_shopping_Automation_Testing) – UI automation with Selenium WebDriver, cross-browser testing, POM framework.  
 - [Guru99 Bank Web App] – Manual & functional testing, BVA & Equivalence Partitioning applied, defect reporting & tracking.  
-- [Genie App (E-commerce)]() – Mobile app testing on Android, API validation, UI/UX testing, regression testing.  
+- [Genie App (E-commerce)] – Mobile app testing on Android, API validation, UI/UX testing, regression testing.  
 
 ---
 
